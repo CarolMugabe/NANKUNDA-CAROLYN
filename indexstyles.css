@@ -1,3 +1,44 @@
-h1{
-    
+header{
+    background-color: cornflowerblue;
+    color: black;
+
+}
+main{
+    background-color: yellowgreen;
+    width: 40%;
+    height: 500px;
+    float: left;
+}
+img{
+    width: 600px;
+    height: 500px;
+}
+aside{
+    background-color: blueviolet;
+    width: 50%;
+    height: 500px;
+    float: right;
+}
+main1{
+    background-color: aquamarine;
+    width: 50%;
+    height: 200px;
+    float: left;
+}
+aside1{
+    background-color: goldenrod;
+    width: 50%;
+    height: 200px;
+    float: right;
+}
+
+footer{
+    background-color:  chocolate;    
+   clear: both;}
+
+.h1styles{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1.some{
+    background-color: red;
 }
